@@ -1,2 +1,4 @@
 data
+_*.conf
 *.log
+kibana-4.4.2-windows/optimize/.babelcache.json
